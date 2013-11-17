@@ -1,0 +1,6 @@
+C:\Users\apprentice\Documents\Visual Studio 2012\Projects\AlarmClock2\AlarmClock2\bin\Debug\AlarmClock2.exe.config
+C:\Users\apprentice\Documents\Visual Studio 2012\Projects\AlarmClock2\AlarmClock2\bin\Debug\AlarmClock2.exe
+C:\Users\apprentice\Documents\Visual Studio 2012\Projects\AlarmClock2\AlarmClock2\bin\Debug\AlarmClock2.pdb
+C:\Users\apprentice\Documents\Visual Studio 2012\Projects\AlarmClock2\AlarmClock2\obj\Debug\AlarmClock2.csprojResolveAssemblyReference.cache
+C:\Users\apprentice\Documents\Visual Studio 2012\Projects\AlarmClock2\AlarmClock2\obj\Debug\AlarmClock2.exe
+C:\Users\apprentice\Documents\Visual Studio 2012\Projects\AlarmClock2\AlarmClock2\obj\Debug\AlarmClock2.pdb
